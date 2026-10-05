@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "Injustice 3 Wiki",
+    "shortName": "Injustice 3",
+    "tagline": "Charaktere, Release-Datum, Story & Gameplay-News",
+    "description": "Ein von Fans betriebenes Injustice 3 Wiki mit Release-News, Charakteren, Story-Theorien, Gameplay-Updates, Trailern und den neuesten Entwicklungsgerüchten.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Nicht mit NetherRealm Studios, WB Games oder DC verbunden."
+  },
+  "nav": {
+    "home": "Start",
+    "menu": "Menü",
+    "toggleTheme": "Theme wechseln",
+    "release": "Veröffentlichung",
+    "characters": "Charaktere",
+    "roster": "Kader",
+    "guide": "Leitfaden",
+    "combat": "Kampf",
+    "platforms": "Plattformen",
+    "news": "News"
+  },
+  "home": {
+    "meta": {
+      "title": "Injustice 3 Wiki - Charaktere, Release-Datum & News",
+      "description": "Entdecke News, Charaktere, Release-Gerüchte, Story-Theorien, Gameplay-Details und Trailer zu Injustice 3 sowie die neuesten Updates von NetherRealm Studios."
+    },
+    "hero": {
+      "eyebrow": "DC-Superhelden-Kampfspiel",
+      "title": "Injustice 3 Wiki",
+      "description": "Ein von Fans betriebenes Injustice 3 Wiki mit Release-News, Charakteren, Story-Theorien, Gameplay-Updates, Trailern und den neuesten Entwicklungsgerüchten.",
+      "stats": [
+        "2017 · Letzter Hauptteil",
+        "2 · Bisherige Hauptspiele",
+        "TBA · Release-Datum",
+        "Gerücht · Entwicklungsstatus"
+      ],
+      "primaryCta": "Charaktere & Kader",
+      "secondaryCta": "Release-Datum-News",
+      "tertiaryCta": "Offizielle WB-Games-Website",
+      "videoLabel": "Konzept-Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden ansehen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Injustice 3 Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Leitfaden",
+          "description": "Lerne die Grundlagen des Injustice-Kampfs: Abstand, Blocken und deinen ersten Standard-Combo."
+        },
+        {
+          "number": "2",
+          "title": "Welchen Charakter du mainen solltest",
+          "description": "Vergleiche Batman, Superman, Wonder Woman und andere wahrscheinliche Kader-Picks, um den passenden Spielstil zu finden."
+        },
+        {
+          "number": "3",
+          "title": "Kampf-Grundlagen",
+          "description": "Verstehe Meter Burn, Clashes und Super-Moves – die Systeme, die jedes Injustice-Match entscheiden."
+        },
+        {
+          "number": "4",
+          "title": "Meter- & Gear-Systeme",
+          "description": "Verschaffe dir einen Vorsprung bei den Progression- und Anpassungssystemen, auf denen ein modernes Injustice 3 aufbauen würde."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Trendthemen zu Injustice 3",
+      "quickLinks": [
+        "Release-Datum",
+        "Kader",
+        "Charaktere",
+        "Gameplay"
+      ],
+      "cards": [
+        {
+          "badge": "Veröffentlichung",
+          "title": "Release-Datum im Blick",
+          "description": "Alle bestätigten Details, berichteten Gerüchte und realistischen Release-Zeiträume für Injustice 3.",
+          "href": "/release/injustice-3-release-date"
+        },
+        {
+          "badge": "Kader",
+          "title": "Kader & Leaks",
+          "description": "Bestätigte Kämpfer, gerüchteweise Rückkehrer und die Community-Wunschliste für den Injustice 3 Kader.",
+          "href": "/roster/injustice-3-roster"
+        },
+        {
+          "badge": "Charaktere",
+          "title": "Alle Charaktere",
+          "description": "Batman, Superman, Wonder Woman und jeder Held und Schurke, der mit Injustice 3 in Verbindung steht.",
+          "href": "/characters/injustice-3-characters"
+        },
+        {
+          "badge": "Kampf",
+          "title": "Gameplay-Systeme",
+          "description": "Meter Burn, Clashes, Gear und die Kampfsysteme, auf denen ein neues Injustice aufbauen würde.",
+          "href": "/combat/injustice-3-gameplay"
+        },
+        {
+          "badge": "News",
+          "title": "Neueste News",
+          "description": "Offizielle Ankündigungen, Teaser und die größten Injustice 3 Gerüchte an einem Ort.",
+          "href": "/news/injustice-3-latest-news"
+        },
+        {
+          "badge": "Story",
+          "title": "Story & Zeitlinie",
+          "description": "Beide Injustice 2 Enden und die Handlungsstränge, die am wahrscheinlichsten in Injustice 3 weitergeführt werden.",
+          "href": "/guide/injustice-3-story"
+        },
+        {
+          "badge": "Leitfaden",
+          "title": "Einsteiger-Leitfaden",
+          "description": "Ein Trainingsplan vor dem Release, der deine Grundlagen schärft, bevor Injustice 3 erscheint.",
+          "href": "/guide/injustice-3-guide"
+        },
+        {
+          "badge": "Tier",
+          "title": "Beste Charaktere",
+          "description": "Playstyle-Tiers und Community-Picks für die stärksten Kämpfer der Injustice-Reihe.",
+          "href": "/characters/injustice-3-best-characters"
+        },
+        {
+          "badge": "Plattformen",
+          "title": "Plattform-Leitfaden",
+          "description": "PlayStation, Xbox, PC und Switch: Wo ein Injustice 3 Release wahrscheinlich erscheinen würde.",
+          "href": "/platforms/injustice-3-ps5"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Injustice 3?",
+      "paragraphs": [
+        "Injustice 3 ist der seit Langem gerüchteweise gehandelte nächste Teil der DC-Kampfspielreihe von NetherRealm Studios, nach Injustice: Gods Among Us (2013) und Injustice 2 (2017). Es führt die Saga der alternativen Erde fort, in der Batman und Superman darüber streiten, wie Helden herrschen sollten, und soll den cineastischen Story-Modus, Meter-Burn-Kämpfe und die gearbasierte Anpassung beibehalten, die die ersten beiden Spiele prägten.",
+        "Stand Oktober 2026 haben Warner Bros. Games und NetherRealm Injustice 3 nicht offiziell angekündigt, daher gibt es kein bestätigtes Release-Datum, keinen Kader und keinen Trailer. Dieses Wiki verfolgt jede Ankündigung und jeden Hinweis aus der Community – von Stellenanzeigen des Studios bis zu Leaks – und trennt bestätigte Details, berichtete Gerüchte und Fan-Wunschlisten klar voneinander."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "NetherRealm Studios"
+        },
+        {
+          "label": "Publisher",
+          "value": "Warner Bros. Games"
+        },
+        {
+          "label": "Serien-Debüt",
+          "value": "2013"
+        },
+        {
+          "label": "Letzter Teil",
+          "value": "2017"
+        },
+        {
+          "label": "Hauptspiele",
+          "value": "2"
+        },
+        {
+          "label": "Genre",
+          "value": "Kampfspiel"
+        },
+        {
+          "label": "Status",
+          "value": "Nicht angekündigt"
+        }
+      ],
+      "cta": "Einsteiger-Leitfaden lesen"
+    },
+    "explore": {
+      "title": "Injustice 3 entdecken",
+      "description": "Durchstöbere alle Injustice 3 Hubs – vom Release-Datum und Kader-Gerüchten bis zu Gameplay-Systemen, Tier Lists, Story, Charakteren und News.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Injustice 3 Release-Datum",
+          "description": "Verfolge, was Warner Bros. Games und NetherRealm tatsächlich zum Injustice 3 Release-Datum gesagt haben, welche Gerüchte Bestand haben und welche Release-Zeiträume Sinn ergeben.",
+          "href": "/release/injustice-3-release-date",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zeitlinie",
+              "detail": "Gods Among Us erschien 2013 und Injustice 2 folgte 2017 – ein grober Zwei-Jahres-Rhythmus."
+            },
+            {
+              "label": "Status",
+              "detail": "Stand Oktober 2026 haben NetherRealm und Warner Bros. keine offizielle Injustice 3 Ankündigung gemacht."
+            },
+            {
+              "label": "Gerüchte",
+              "detail": "Berichte und Stellenanzeigen deuten auf ein neues NetherRealm-Projekt hin, doch keine nennt eine Injustice-Fortsetzung."
+            },
+            {
+              "label": "Zeiträume",
+              "detail": "Ein realistischer Release würde dem aktuellen Support-Zyklus von Mortal Kombat 1 folgen, statt bald zu erscheinen."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Injustice 3 Kader",
+          "description": "Trenne bestätigte Kämpfer von gerüchteweisen Rückkehrern und Community-Wunschlisten-Picks für den Injustice 3 Kader – basierend darauf, wie NetherRealm frühere Aufstellungen aufgebaut hat.",
+          "href": "/roster/injustice-3-roster",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kern",
+              "detail": "Batman, Superman und Wonder Woman sind die nahezu sicheren Anker jedes Injustice-Kaders."
+            },
+            {
+              "label": "Wunschliste",
+              "detail": "Community-Umfragen drängen weiter auf Neuzugänge wie Constantine und Supergirl."
+            },
+            {
+              "label": "Leaks",
+              "detail": "Jeder bisher geleakte Kader geht auf Fan-Art, Wunschlisten oder bearbeitete Thumbnails zurück."
+            },
+            {
+              "label": "Gastkämpfer",
+              "detail": "Die Tradition der Gastkämpfer bei NetherRealm könnte einen weiteren Crossover-Pick in die DC-Aufstellung bringen."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Injustice 3 Gameplay",
+          "description": "Analysiere die Kampfsysteme, auf denen die Reihe aufbaut – darunter Meter Burn, Clashes, Gear und das Netcode, mit dem die Community Injustice 3 haben möchte.",
+          "href": "/combat/injustice-3-gameplay",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Leicht",
+              "detail": "Schnellster Normalangriff, genutzt für Pokes, Hit-Confirms und Combo-Starter."
+            },
+            {
+              "label": "Mittel",
+              "detail": "Mittelschneller Schlag, der Normals in Special-Move-Cancels überleitet."
+            },
+            {
+              "label": "Schwer",
+              "detail": "Langsamer Angriff mit hohem Schaden, am besten als Punish oder Combo-Ender."
+            },
+            {
+              "label": "Meter Burn",
+              "detail": "Verbrauche Meter, um Combos zu verlängern, Rüstung hinzuzufügen oder die Eigenschaften eines Special Moves zu ändern."
+            },
+            {
+              "label": "Clash",
+              "detail": "Ein Wettsystem, bei dem beide Kämpfer Meter setzen, um Schaden oder Leben zurückzugewinnen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Injustice 3 Einsteiger-Leitfaden",
+          "description": "Ein Trainingsplan vor dem Release für Injustice-Neulinge, der Grundlagen, Combos und Matchup-Gewohnheiten aus den ersten beiden Spielen abdeckt.",
+          "href": "/guide/injustice-3-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lerne zuerst Spacing und Footsies, denn Reichweitenkontrolle gewinnt das Neutral in Injustice."
+            },
+            {
+              "label": "2",
+              "detail": "Übe einen Standard-Combo pro Charakter, bevor du lange Strings versuchst."
+            },
+            {
+              "label": "3",
+              "detail": "Verwalte Meter sorgfältig und setze es nur dann für Schaden ein, wenn es eine Runde beenden kann."
+            },
+            {
+              "label": "4",
+              "detail": "Nutze Clashes als Comeback-Werkzeug, indem du Meter für die Wette sparst."
+            },
+            {
+              "label": "5",
+              "detail": "Lerne Frame Data, um zu wissen, welche Moves bei Block bestrafbar sind."
+            },
+            {
+              "label": "6",
+              "detail": "Wähle früh einen Main und baue Matchup-Wissen auf, statt dich zu verzetteln."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Injustice 3 Tier List",
+          "description": "Ein Scouting-Bericht über die stärksten Injustice-Archetypen und die Charaktere, die bei Enthüllung des Kaders am wahrscheinlichsten an der Spitze einer Injustice 3 Tier List stehen.",
+          "href": "/characters/injustice-3-best-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Superman und Batman bieten die stärkste Mischung aus Neutral-Werkzeugen, Schaden und Turnier-Erfahrung."
+            },
+            {
+              "label": "A",
+              "detail": "Wonder Woman, Black Adam und Aquaman bieten verlässlichen Druck und starke Raumkontrolle."
+            },
+            {
+              "label": "B",
+              "detail": "Harley Quinn und Catwoman belohnen hohe Execution mit kniffligen Mixups und Mobilität."
+            },
+            {
+              "label": "C",
+              "detail": "Spezialisten wie Bane und Atrocitus können in den richtigen Händen dominieren, brauchen aber Matchup-Arbeit."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Injustice 3 Story",
+          "description": "Verfolge die Injustice-Zeitlinie, beide Injustice 2 Enden und die Handlungsstränge, die die Injustice 3 Story am wahrscheinlichsten prägen würden, falls NetherRealm die Saga fortsetzt.",
+          "href": "/guide/injustice-3-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Enden",
+              "detail": "Injustice 2 hatte zwei Enden – eines, in dem Superman entmachtet wird, und eines, in dem er die Kontrolle übernimmt."
+            },
+            {
+              "label": "Comics",
+              "detail": "Tom Taylors Injustice-Comics füllen die fünfjährige Lücke, die den Krieg des ersten Spiels vorbereitet."
+            },
+            {
+              "label": "Zeitlinie",
+              "detail": "Gods Among Us und Injustice 2 bilden eine durchgehende Saga der alternativen Erde."
+            },
+            {
+              "label": "Theorien",
+              "detail": "Fan-Theorien spalten sich zwischen einem von Batman geführten Widerstand und einer von Superman geführten Regime-Wiederbelebung."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Injustice 3 Charaktere",
+          "description": "Profile der Helden, Schurken und Gastkämpfer aus dem Injustice-Universum mit Hintergrund-, Fraktions- und Playstyle-Notizen zu jedem Charakter.",
+          "href": "/characters/injustice-3-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Helden",
+              "detail": "Batman, Superman, Wonder Woman und Flash bilden das Rückgrat der Justice League."
+            },
+            {
+              "label": "Schurken",
+              "detail": "Joker, Harley Quinn, Brainiac und Atrocitus führen den gegnerischen Kader an."
+            },
+            {
+              "label": "Gastkämpfer",
+              "detail": "Scorpion, Sub-Zero und Raiden bewiesen, dass NetherRealm-Gäste in DC überwechseln können."
+            },
+            {
+              "label": "Archetypen",
+              "detail": "Zoner, Rushdown-Bruiser und Grappler geben jedem Spielstil ein Zuhause."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Injustice 3 News",
+          "description": "Die neuesten Injustice 3 News – offizielle Updates von Warner Bros. und NetherRealm sowie Gerüchte und Community-Reaktionen, die Aufmerksamkeit verdienen.",
+          "href": "/news/injustice-3-latest-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Offiziell",
+              "detail": "Nur Kanäle von Warner Bros., DC oder NetherRealm gelten als bestätigte Injustice 3 News."
+            },
+            {
+              "label": "Gerüchte",
+              "detail": "Insider-Berichte und Stellenanzeigen deuten auf ein Projekt hin, aber nicht darauf, zu welcher Marke es gehört."
+            },
+            {
+              "label": "Trailer",
+              "detail": "Jeder bisher online verfügbare Injustice 3 Trailer ist ein Fan-Konzept und keine offizielle Enthüllung."
+            },
+            {
+              "label": "Updates",
+              "detail": "Wir verfolgen Ankündigungen, Teaser und Community-Reaktionen, sobald sie auftauchen."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Injustice 3 FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Injustice 3.",
+      "items": [
+        {
+          "question": "Was ist Injustice 3?",
+          "answer": "Injustice 3 ist der nächste Teil der DC-Kampfspielreihe von NetherRealm Studios und führt die Geschichte von Injustice: Gods Among Us und Injustice 2 mit cineastischem Story-Modus, Meter-Burn-Kämpfen, Clashes und gearbasierter Anpassung fort."
+        },
+        {
+          "question": "Wurde Injustice 3 angekündigt?",
+          "answer": "Nein. Stand Oktober 2026 haben Warner Bros. Games und NetherRealm Injustice 3 nicht angekündigt, und das Spiel hat kein offizielles Release-Datum, keinen Kader und keinen Trailer."
+        },
+        {
+          "question": "Wann erscheint Injustice 3?",
+          "answer": "Injustice 3 hat kein bestätigtes Release-Fenster. NetherRealm wechselte einst alle zwei Jahre zwischen Mortal Kombat und Injustice, doch nach Mortal Kombat 11 und Mortal Kombat 1 wurde die Lücke größer, sodass ein Release noch Jahre entfernt ist."
+        },
+        {
+          "question": "Welche Charaktere werden in Injustice 3 sein?",
+          "answer": "Batman, Superman, Wonder Woman und der Joker sind die sichersten Wetten für eine Rückkehr in Injustice 3, während Community-Wunschlisten auf Neuzugänge wie Constantine und Supergirl drängen. Kein Injustice 3 Kader wurde bestätigt."
+        },
+        {
+          "question": "Auf welchen Plattformen erscheint Injustice 3?",
+          "answer": "Die jüngsten Kampfspiele von NetherRealm erschienen für PlayStation, Xbox, PC und Nintendo Switch, daher würde Injustice 3 wahrscheinlich demselben Multiplattform-Muster folgen – bestätigt ist jedoch nichts."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit für Injustice 3?",
+      "description": "Von Release-Gerüchten und Kader-Leaks bis zu Story-Theorien und Gameplay-Analysen hält dich unser Community-Wiki mit kostenlosen, belegten Guides auf dem Laufenden.",
+      "primary": "Einsteiger-Leitfaden lesen",
+      "secondary": "Warner Bros. Games besuchen"
+    }
+  },
+  "release": {
+    "overviewTitle": "Injustice 3 Release-Datum",
+    "overviewDescription": "Verfolge jedes Update zum Injustice 3 Release-Datum, Release-Fenster-Gerüchte und offizielle NetherRealm-Ankündigungen an einem Ort."
+  },
+  "characters": {
+    "overviewTitle": "Injustice 3 Charaktere",
+    "overviewDescription": "Jeder bestätigte und gerüchteweise Injustice 3 Charakter – von zurückkehrenden DC-Helden und -Schurken bis zu neuen Kämpfern im Kader."
+  },
+  "roster": {
+    "overviewTitle": "Injustice 3 Kader",
+    "overviewDescription": "Entdecke Kader-Prognosen, Wunschlisten und Leaks zu Injustice 3 sowie die Kämpfer, die am wahrscheinlichsten für das nächste DC-Kampfspiel zurückkehren."
+  },
+  "guide": {
+    "overviewTitle": "Injustice 3 Leitfäden",
+    "overviewDescription": "Injustice 3 Leitfäden zu Story, Lore, Enden und einer Trophäen-Roadmap, damit du dich vor dem Release des Spiels vorbereiten kannst."
+  },
+  "combat": {
+    "overviewTitle": "Injustice 3 Kampf & Gameplay",
+    "overviewDescription": "Injustice 3 Gameplay-Erklärungen zu Fatalities, Kameo-Kämpfern, dem Multiversum und den Kampfsystemen, auf denen die Reihe aufbaut."
+  },
+  "platforms": {
+    "overviewTitle": "Injustice 3 Plattformen",
+    "overviewDescription": "Finde heraus, ob Injustice 3 für PS5, Xbox, PC, Nintendo Switch oder Mobile erscheint und was jede Plattform bieten könnte."
+  },
+  "news": {
+    "overviewTitle": "Injustice 3 News",
+    "overviewDescription": "Die neuesten Injustice 3 News, Trailer, Ankündigungen und Community-Gerüchte, aktualisiert, sobald sich die Story entwickelt."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Start",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Injustice 3 Wiki",
+    "about": "Injustice 3 Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub mit Release-News, Charakteren, Story-Theorien, Gameplay-Updates und den neuesten Entwicklungsgerüchten zur DC-Kampfspielreihe.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Injustice 3 Wiki. Nicht mit NetherRealm Studios, WB Games oder DC verbunden.",
+    "description": "Fanorientiertes Injustice 3 Wiki zu Release-News, Charakteren, Story, Gameplay und Trailern.",
+    "playGame": "Warner Bros. Games besuchen",
+    "officialDiscord": "r/INJUSTICE-Community",
+    "officialYoutube": "NetherRealm Studios YouTube",
+    "vvBuilder": "Kader- & Charakter-Tracker",
+    "beginnerGuide": "Einsteiger-Leitfaden",
+    "raceGuides": "Charakter-Leitfäden",
+    "bossGuides": "Kader & Gerüchte",
+    "buildGuide": "Gameplay-Leitfäden",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
