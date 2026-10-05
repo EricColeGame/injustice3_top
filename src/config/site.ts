@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Injustice 3 Wiki",
+  shortName: "Injustice 3",
+  logoText: "I",
+  tagline: "Characters, Release Date, Story & Gameplay News",
+  description: "A fan-focused Injustice 3 wiki covering release news, characters, story theories, gameplay updates, trailers, and the latest development rumors.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://injustice3.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://injustice3.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://warnerbrosgames.com/",
+  heroVideoId: "8WS47Ms97HM", // Injustice 3 showcase trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@NetherRealmStudios",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
