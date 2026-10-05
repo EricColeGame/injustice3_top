@@ -43,288 +43,370 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the fundamentals of Injustice combat: spacing, blocking, and your first bread-and-butter combo."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Which Character to Main",
+          "description": "Compare Batman, Superman, Wonder Woman, and other likely roster picks to find the playstyle that fits you."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Combat Basics",
+          "description": "Understand meter burn, clashes, and super moves, the systems that decide every Injustice match."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Injustice 3."
+          "title": "Meter & Gear Systems",
+          "description": "Get ahead on the progression and customization systems a modern Injustice 3 would build on."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Injustice 3 Topics",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Release Date",
+        "Roster",
+        "Characters",
+        "Gameplay"
       ],
       "cards": [
         {
-          "badge": "Beginner",
+          "badge": "Release",
+          "title": "Release Date Watch",
+          "description": "Every confirmed detail, reported rumor, and realistic launch window for Injustice 3.",
+          "href": "/release/injustice-3-release-date"
+        },
+        {
+          "badge": "Roster",
+          "title": "Roster & Leaks",
+          "description": "Confirmed fighters, rumored returns, and the community wishlist for the Injustice 3 roster.",
+          "href": "/roster/injustice-3-roster"
+        },
+        {
+          "badge": "Characters",
+          "title": "All Characters",
+          "description": "Batman, Superman, Wonder Woman, and every hero and villain linked to Injustice 3.",
+          "href": "/characters/injustice-3-characters"
+        },
+        {
+          "badge": "Combat",
+          "title": "Gameplay Systems",
+          "description": "Meter burn, clashes, gear, and the combat systems a new Injustice would build on.",
+          "href": "/combat/injustice-3-gameplay"
+        },
+        {
+          "badge": "News",
+          "title": "Latest News",
+          "description": "Official announcements, teases, and the biggest Injustice 3 rumors sorted in one place.",
+          "href": "/news/injustice-3-latest-news"
+        },
+        {
+          "badge": "Story",
+          "title": "Story & Timeline",
+          "description": "Both Injustice 2 endings and the plot threads most likely to carry into Injustice 3.",
+          "href": "/guide/injustice-3-story"
+        },
+        {
+          "badge": "Guide",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "A pre-launch training plan that sharpens your fundamentals before Injustice 3 arrives.",
+          "href": "/guide/injustice-3-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Tier",
+          "title": "Best Characters",
+          "description": "Playstyle tiers and community picks for the strongest fighters in the Injustice series.",
+          "href": "/characters/injustice-3-best-characters"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Platforms",
+          "title": "Platform Guide",
+          "description": "PlayStation, Xbox, PC, and Switch: where an Injustice 3 release would likely land.",
+          "href": "/platforms/injustice-3-ps5"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Injustice 3?",
       "paragraphs": [
-        "Injustice 3 is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Injustice 3 is the long-rumored next entry in NetherRealm Studios' DC fighting game series, following Injustice: Gods Among Us (2013) and Injustice 2 (2017). It continues the alternate-Earth saga where Batman and Superman clash over how heroes should rule, and it is expected to keep the cinematic story mode, meter-burn combat, and gear-driven customization that defined the first two games.",
+        "As of October 2026, Warner Bros. Games and NetherRealm have not officially announced Injustice 3, so there is no confirmed release date, roster, or trailer. This wiki tracks every announcement and community lead, from studio job listings to leaks, and keeps confirmed details, reported rumors, and fan wishlists clearly separated."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "NetherRealm Studios"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Warner Bros. Games"
+        },
+        {
+          "label": "Series Debut",
+          "value": "2013"
+        },
+        {
+          "label": "Last Entry",
+          "value": "2017"
+        },
+        {
+          "label": "Mainline Games",
+          "value": "2"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Fighting Game"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
-        },
-        {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Status",
+          "value": "Not Announced"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Read the Beginner Guide"
     },
     "explore": {
-      "title": "Explore Injustice 3 Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Injustice 3",
+      "description": "Browse every Injustice 3 hub, from the release date and roster rumors to gameplay systems, tier lists, story, characters, and news.",
       "modules": [
         {
           "order": 1,
-          "name": "Injustice 3 Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/injustice-3-codes",
-          "displayType": "code-box",
+          "name": "Injustice 3 Release Date",
+          "description": "Track what Warner Bros. Games and NetherRealm have actually said about the Injustice 3 release date, which rumors hold up, and the launch windows that make sense.",
+          "href": "/release/injustice-3-release-date",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "COMING-SOON — No active codes currently available"
+              "label": "Timeline",
+              "detail": "Gods Among Us launched in 2013 and Injustice 2 followed in 2017, setting a rough two-year rhythm."
             },
             {
-              "label": "Code",
-              "detail": "STAY-TUNED — Check back soon for new codes"
+              "label": "Status",
+              "detail": "As of October 2026, NetherRealm and Warner Bros. have made no official Injustice 3 announcement."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Rumors",
+              "detail": "Reports and job listings point to a new NetherRealm project, but none name an Injustice sequel."
+            },
+            {
+              "label": "Windows",
+              "detail": "A realistic launch would follow the current Mortal Kombat 1 support cycle rather than arrive soon."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/injustice-3-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Injustice 3 Roster",
+          "description": "Separate confirmed fighters from rumored returns and community wishlist picks for the Injustice 3 roster, based on how NetherRealm has built past lineups.",
+          "href": "/roster/injustice-3-roster",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Core",
+              "detail": "Batman, Superman, and Wonder Woman are the near-certain anchors of any Injustice roster."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Wishlist",
+              "detail": "Community polls keep pushing for newcomers such as Constantine and Supergirl."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Leaks",
+              "detail": "Every leaked roster so far traces back to fan art, wishlists, or edited thumbnails."
+            },
+            {
+              "label": "Guests",
+              "detail": "NetherRealm's guest-fighter tradition could bring another crossover pick into the DC lineup."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/injustice-3-tier-list",
-          "displayType": "tier-grid",
+          "name": "Injustice 3 Gameplay",
+          "description": "Break down the combat systems the series is built on, including meter burn, clashes, gear, and the netcode the community wants Injustice 3 to ship with.",
+          "href": "/combat/injustice-3-gameplay",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Light",
+              "detail": "Fastest normal attack, used for pokes, hit-confirms, and combo starters."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Medium",
+              "detail": "Mid-speed strike that links normals into special-move cancels."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Heavy",
+              "detail": "Slow, high-damage attack best used as a punish or a combo ender."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Meter Burn",
+              "detail": "Spend meter to extend combos, add armor, or change a special move's properties."
+            },
+            {
+              "label": "Clash",
+              "detail": "A wager system that lets both fighters bet meter to steal damage or health back."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/injustice-3-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Injustice 3 Beginner Guide",
+          "description": "A pre-launch training plan for players new to Injustice, covering the fundamentals, combos, and matchup habits that carry over from the first two games.",
+          "href": "/guide/injustice-3-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Learn spacing and footsies first, because range control wins neutral in Injustice."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Practice one bread-and-butter combo per character before attempting long strings."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Manage meter carefully and spend it on damage only when it can close out a round."
+            },
+            {
+              "label": "4",
+              "detail": "Use clashes as a comeback tool by banking meter for the wager."
+            },
+            {
+              "label": "5",
+              "detail": "Study frame data so you know which moves are punishable on block."
+            },
+            {
+              "label": "6",
+              "detail": "Pick a main early and build matchup knowledge instead of spreading thin."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/injustice-3-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Injustice 3 Tier List",
+          "description": "A scouting report on the strongest Injustice archetypes and the characters most likely to sit at the top of an Injustice 3 tier list once the roster is revealed.",
+          "href": "/characters/injustice-3-best-characters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Superman and Batman project the strongest mix of neutral tools, damage, and tournament pedigree."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Wonder Woman, Black Adam, and Aquaman offer reliable pressure and strong space control."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "Harley Quinn and Catwoman reward high execution with tricky mixups and mobility."
+            },
+            {
+              "label": "C",
+              "detail": "Specialists like Bane and Atrocitus can dominate in the right hands but need matchup work."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/injustice-3-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Injustice 3 Story",
+          "description": "Follow the Injustice timeline, both Injustice 2 endings, and the plot threads most likely to shape the Injustice 3 story if NetherRealm continues the saga.",
+          "href": "/guide/injustice-3-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Endings",
+              "detail": "Injustice 2 shipped two endings, one where Superman is depowered and one where he takes control."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Comics",
+              "detail": "Tom Taylor's Injustice comics fill the five-year gap that sets up the first game's war."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Timeline",
+              "detail": "Gods Among Us and Injustice 2 form one continuous alternate-Earth saga."
+            },
+            {
+              "label": "Theories",
+              "detail": "Fan theories split between a Batman-led resistance and a Superman-led Regime revival."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Injustice 3 Characters",
+          "description": "Profiles of the heroes, villains, and guest fighters tied to the Injustice universe, with background, faction, and playstyle notes for each character.",
+          "href": "/characters/injustice-3-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Heroes",
+              "detail": "Batman, Superman, Wonder Woman, and the Flash anchor the Justice League side."
+            },
+            {
+              "label": "Villains",
+              "detail": "Joker, Harley Quinn, Brainiac, and Atrocitus headline the opposing roster."
+            },
+            {
+              "label": "Guests",
+              "detail": "Scorpion, Sub-Zero, and Raiden proved NetherRealm guests can cross into DC."
+            },
+            {
+              "label": "Archetypes",
+              "detail": "Zoners, rushdown bruisers, and grapplers give every playstyle a home."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Injustice 3 News",
+          "description": "The latest Injustice 3 news, tracking official Warner Bros. and NetherRealm updates alongside the rumors and community reactions worth your attention.",
+          "href": "/news/injustice-3-latest-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Official",
+              "detail": "Only Warner Bros., DC, or NetherRealm channels count as confirmed Injustice 3 news."
+            },
+            {
+              "label": "Rumors",
+              "detail": "Insider reports and job listings suggest a project but not which franchise it belongs to."
+            },
+            {
+              "label": "Trailers",
+              "detail": "Every Injustice 3 trailer online so far is a fan concept rather than an official reveal."
+            },
+            {
+              "label": "Updates",
+              "detail": "We track announcements, teases, and community reactions as they happen."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
+      "title": "Injustice 3 FAQ",
       "description": "Quick answers to the most common questions about Injustice 3.",
       "items": [
         {
           "question": "What is Injustice 3?",
-          "answer": "Injustice 3 is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Injustice 3 is the next entry in NetherRealm Studios' DC fighting game series, continuing the story of Injustice: Gods Among Us and Injustice 2 with a cinematic story mode, meter-burn combat, clashes, and gear-driven customization."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Has Injustice 3 been announced?",
+          "answer": "No. As of October 2026, Warner Bros. Games and NetherRealm have not announced Injustice 3, and the game has no official release date, roster, or trailer."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "When will Injustice 3 release?",
+          "answer": "Injustice 3 has no confirmed release window. NetherRealm once alternated Mortal Kombat and Injustice releases every two years, but the gap widened after Mortal Kombat 11 and Mortal Kombat 1, so a launch is still years away."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which characters will be in Injustice 3?",
+          "answer": "Batman, Superman, Wonder Woman, and the Joker are the safest bets to return in Injustice 3, while community wishlists push for newcomers like Constantine and Supergirl. No Injustice 3 roster has been confirmed."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What platforms will Injustice 3 be on?",
+          "answer": "NetherRealm's recent fighters launched on PlayStation, Xbox, PC, and Nintendo Switch, so Injustice 3 would likely follow the same multi-platform pattern, though nothing has been confirmed."
         }
       ]
     },
