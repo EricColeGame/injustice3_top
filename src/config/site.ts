@@ -25,10 +25,11 @@ export const siteConfig: SiteConfig = {
   tagline: "Characters, Release Date, Story & Gameplay News",
   description: "A fan-focused Injustice 3 wiki covering release news, characters, story theories, gameplay updates, trailers, and the latest development rumors.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://injustice3.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://injustice3.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@injustice3.top",
   gameUrl: "https://warnerbrosgames.com/",
-  heroVideoId: "8WS47Ms97HM", // Injustice 3 showcase trailer
+  heroVideoId: "8WS47Ms97HM", // Injustice 3 - Story Trailer (fan-made concept), verified embeddable
   social: {
+    discord: "https://www.reddit.com/r/INJUSTICE/",
     youtube: "https://www.youtube.com/@NetherRealmStudios",
   },
   locales: ["en", "es", "pt", "de", "fr"],
