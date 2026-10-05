@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "release": "Release",
+    "characters": "Characters",
+    "roster": "Roster",
+    "guide": "Guide",
+    "combat": "Combat",
+    "platforms": "Platforms",
+    "news": "News"
   },
   "home": {
     "meta": {
@@ -417,7 +424,34 @@
       "secondary": "Visit Warner Bros. Games"
     }
   },
-  "bosses": {},
+  "release": {
+    "overviewTitle": "Injustice 3 Release Date",
+    "overviewDescription": "Track every Injustice 3 release date update, launch window rumor, and official NetherRealm announcement in one place."
+  },
+  "characters": {
+    "overviewTitle": "Injustice 3 Characters",
+    "overviewDescription": "Every confirmed and rumored Injustice 3 character, from returning DC heroes and villains to new fighters joining the roster."
+  },
+  "roster": {
+    "overviewTitle": "Injustice 3 Roster",
+    "overviewDescription": "Explore Injustice 3 roster predictions, wishlists, leaks, and the fighters most likely to return for the next DC fighting game."
+  },
+  "guide": {
+    "overviewTitle": "Injustice 3 Guides",
+    "overviewDescription": "Injustice 3 guides covering the story, lore, endings, and a trophy roadmap so you can prepare before the game launches."
+  },
+  "combat": {
+    "overviewTitle": "Injustice 3 Combat & Gameplay",
+    "overviewDescription": "Injustice 3 gameplay explainers covering fatalities, Kameo fighters, the multiverse, and the fighting systems the series is built on."
+  },
+  "platforms": {
+    "overviewTitle": "Injustice 3 Platforms",
+    "overviewDescription": "Find out whether Injustice 3 is coming to PS5, Xbox, PC, Nintendo Switch, or mobile, and what each platform may offer."
+  },
+  "news": {
+    "overviewTitle": "Injustice 3 News",
+    "overviewDescription": "The latest Injustice 3 news, trailers, announcements, and community rumors, updated as the story develops."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -449,7 +483,7 @@
     "vvBuilder": "Roster & Character Tracker",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Character Guides",
-    "bossGuides": "Boss Guides",
+    "bossGuides": "Roster & Rumors",
     "buildGuide": "Gameplay Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
