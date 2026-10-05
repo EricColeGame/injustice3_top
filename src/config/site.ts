@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/r/INJUSTICE/",
     youtube: "https://www.youtube.com/@NetherRealmStudios",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
